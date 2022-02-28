@@ -1,5 +1,9 @@
+#EXTINF:-1, 1
 http://190.2.148.141:8080/bar7600/index.m3u8
+
+#EXTINF:-1, 1
 http://190.2.148.141:8080/bar7601/index.m3u8
+
 http://190.2.148.141:8080/bar7602/index.m3u8
 http://190.2.148.141:8080/bar7603/index.m3u8
 http://190.2.148.141:8080/bar7604/index.m3u8
